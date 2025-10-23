@@ -52,6 +52,8 @@ Built using **HTML + JavaScript**. Runs offline — just open `index.html`.
 3. Add grade calculator
 
    ## STUDENT DETAILS
-   1. EVANS SAKOLO
-   2. 202400550
+   1. NAME:EVANS SAKOLO
+   2. S/N:202400550
+   3. PROGRAM:COMPUTER SCIENCE
+   4. YEAR OF STUDY:2ND
       
