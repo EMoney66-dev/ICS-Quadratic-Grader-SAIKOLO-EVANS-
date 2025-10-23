@@ -51,7 +51,7 @@ Built using **HTML + JavaScript**. Runs offline — just open `index.html`.
 2. Add quadratic solver  
 3. Add grade calculator
 
-   ## STUDENT DETILS
+   ## STUDENT DETAILS
    1. EVANS SAKOLO
    2. 202400550
       
