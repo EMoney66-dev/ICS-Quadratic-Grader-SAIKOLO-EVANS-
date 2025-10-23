@@ -1,4 +1,4 @@
-# ICS-Quadratic-Grader-<SAIKOLO-EVANS>
+# Quadratic Sovler and Grading System
 
 ## Description
 A single-page web app that:
